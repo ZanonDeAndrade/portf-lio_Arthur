@@ -8,12 +8,13 @@ export function Experience(){
     return(
         <div className="experience">
           <SectionTitle text="Experience"/>
-          <p>3 years working as a Software Developer, in companys such as Itaú, Stone and Aftersale.</p>
+          <p>Estou cursando o 3° semestre de Sistema de Informação. <br></br>Tenho 2 anos de experiencia como Frontend Developer</p>
           <div className="experience-time">
-            <Skill image="/react.png" measure={2} years="2 years"/>
-            <Skill image="/ts.png" measure={3} years="3 years"/>
-            <Skill image="/js.png" measure={3} years="3 years"/>
-            <Skill image="/java.png" measure={1} years="1 year"/>
+            <Skill image="/react.png" measure={1} years="1 year"/>
+            <Skill image="/ts.png" measure={2} years="2 years"/>
+            <Skill image="/js.png" measure={2} years="2 years"/>
+            <br></br>
+      
           </div>
         </div>
     )
