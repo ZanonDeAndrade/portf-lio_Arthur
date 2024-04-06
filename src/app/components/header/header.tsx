@@ -10,7 +10,7 @@ export function Header(){
             <h2>FrontEnd Developer</h2>
           </div>
           <Image
-            src="/me.jpg"
+            src="/me.jpeg"
             alt="Vercel Logo"
             width={325}
             height={310}
