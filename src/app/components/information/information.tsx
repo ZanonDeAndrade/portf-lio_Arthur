@@ -12,7 +12,7 @@ export function Info(){
         <SectionTitle text="Education"/>
         <div className="educational-info">
           <span>🎓</span>
-          <span> Information Systems Bachelors Degree - Antonio Meneghetti Faculdade</span>
+          <span> Information Systems Bachelors - Antonio Meneghetti Faculdade</span>
         </div>
       </div>
     )
